@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="iNNgSTABh2piS-JZbBgS" name="Page-1">
+        <mxGraphModel dx="1074" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="52" value="Parenthesis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=30;fontColor=#6600CC;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="180" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="Power" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=30;fontColor=#00FFFF;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="230" width="90" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="Multiplication" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=30;fontColor=#006600;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="290" width="190" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="Addition" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=30;fontColor=#FF8000;" vertex="1" parent="1">
+                    <mxGeometry x="365" y="340" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" value="Left to Right" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=30;fontColor=#CCCC00;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="400" width="170" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="" style="shape=flexArrow;endArrow=classic;html=1;fontColor=#CCCC00;fillColor=#FFFFFF;strokeWidth=1;shadow=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="540" y="200" as="sourcePoint"/>
+                        <mxPoint x="540" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
