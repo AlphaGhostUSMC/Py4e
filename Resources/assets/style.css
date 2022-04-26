@@ -3,22 +3,45 @@
 h3, h4 {
   color: tomato;
   text-align: center;
+  text-decoration: underline;
 }
 
 /* span tag colors */
 
-#grn {
+.grn {
   color: green;
 }
 
-#lgrn {
+.lgrn {
   color: lightgreen;
 }
 
-#ylw {
+.ylw {
   color: yellow;
 }
 
-#lred {
+.lred {
   color: rgb(255, 148, 148);
+}
+
+.orng {
+  color: orange;
+}
+
+/* paragraph styles */
+
+.rwdsp {
+  color: yellow;
+  font-size: 20px;
+  align-items: center;
+  text-justify: distribute-all-lines;
+}
+
+.pslst {
+  font-size: 16px;
+}
+
+.hdr {
+  color: orange;
+  font-weight: 200;
 }
