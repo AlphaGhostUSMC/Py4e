@@ -3,15 +3,32 @@
     <title>Learn Python</title>
     <link rel="stylesheet" href="./Resources/assets/style.css">
   </head>
-  <h3>Python Variable Name Rules</h3>
+  <h3>Operator Precedence Rules</h3>
+  <p>Highest precedence rule to lowest precedence rule:</p>
 <list>
 <ul>
-  <li>Must start with a letter or underscore _</li>
-  <li>Must consist of letter, numbers, and underscores</li>
-  <li>Case Sensitive</li>
+  <li>Parentheses are always respected</li>
+  <li>Exponentiation (raise to a power)</li>
+  <li>Multiplication, division, and remainder</li>
+  <li>Addition and subtraction</li>
+  <li>Left to right</li>
 </ul>
 </list>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: lightgreen;">Good : </span>num &nbsp;&nbsp;value &nbsp;&nbsp; data1 &nbsp;&nbsp; first_number <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: lightcoral;">Bad : </span>123 &nbsp;&nbsp;12num &nbsp;&nbsp; #val &nbsp;&nbsp; var.12 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: lightblue;">Case Sensitive : </span>value &nbsp;&nbsp;Value &nbsp;&nbsp; VALUE </p>
+<img src="Resources/Flowcharts/precedencerule.png" alt="assignment" style="display: block; margin-left: auto; margin-right: auto;">
+<pre>
+  >>> x = 1 + 2 ** 3 / 4 * 5
+  >>> print(x)
+  11.0
+  >>>
+</pre>
+<img src="Resources/Flowcharts/egexpression.png" alt="egexpression" style="display: block; margin-left: auto; margin-right: auto;">
+<h4>Operator Precedence</h4>
+<list>
+<ul>
+<li>Remember the rules top to bottom</li>
+<li>When writing code - use Parentheses</li>
+<li>When writing code - keep mathematical expression simple enough that they are easy to understand</li>
+<li>Break long series of mathematical operations up to make them more clear</li>
+</ul>
+</list>
 </body>
