@@ -54,3 +54,9 @@ h3, h4 {
   color: cyan;
   font-size: large;
 }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
