@@ -3,7 +3,8 @@
 h3, h4 {
   color: tomato;
   text-align: center;
-  text-decoration: underline;
+  font-style: italic;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /* span tag colors */
