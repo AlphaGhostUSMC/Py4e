@@ -1,10 +1,11 @@
 /* Heading Colors */
 
-h3, h4 {
+h3,
+h4 {
   color: tomato;
   text-align: center;
   font-style: italic;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 /* span tag colors */
@@ -49,13 +50,16 @@ h3, h4 {
   color: lightblue;
 }
 
+.rd {
+  color: red;
+}
+
 /* paragraph styles */
 
 .rwdsp {
   color: yellow;
   font-size: 20px;
   align-items: center;
-  text-justify: distribute-all-lines;
 }
 
 .pslst {
