@@ -4,5 +4,8 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"jupyter.jupyterServerType": "local",
+		"python.envFile": "${workspaceFolder}/~Py4e"
+	}
 }
