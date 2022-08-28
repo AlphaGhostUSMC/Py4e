@@ -1,4 +1,4 @@
-from:	Grammarly Insights <info@send.grammarly.com>
+from:	GrammarlyInsights <info@send.grammarly.com>
 reply-to:	No Reply <reply-fe8c107277670d7a7d-45825_HTML-418795428-6424583-3256@send.grammarly.com>
 to:	alphaemailaddress@gmail.com
 date:	Mar 15, 2022, 7:37 AM
@@ -21,14 +21,34 @@ subject:	Design Assets for Microsoft and G-suite 💻
 mailed-by:	amazonses.com
 signed-by:	iconscout.com
 
-from:	HackerRank Team <no-reply@hackerrankmail.com>
-to:	foxtrotemailaddress@gmail.com
+from:	HackerRankTeam <no-reply@hackerrankmail.com>
+to:	deltaemailaddress@gmail.com
 date:	May 7, 2022, 5:50 AM
 subject:	Improve your Coding Skills with Lists
 mailed-by:	postmaster.hackerrankmail.com
 signed-by:	postmaster.hackerrankmail.com
 
+from:	LeetCode <no-reply@leetcode.com>
+to:	echoemailaddress@gmail.com
+date:	Aug 26, 2022, 12:38 AM
+subject:	LeetCode Weekly Digest
+mailed-by:	mail.leetcode.com
+signed-by:	leetcode.com
 
+from:	Apple <News@insideapple.apple.com>
+to:	foxtrotemailaddress@gmail.com
+date:	Aug 24, 2022, 2:48 PM
+subject:	Please join us for a special event from Apple Park.
+mailed-by:	insideapple.apple.com
+signed-by:	insideapple.apple.com
+
+from:	Cloudflare <no-reply@cloudflare.com>
+reply-to:	no-reply@cloudflare.com
+to:	golfemailaddress@gmail.com
+date:	Aug 19, 2022, 3:05 PM
+subject:	Upcoming Maintenance Window on Cloudflare - 7th September 2022 at 16:00 UTC
+mailed-by:	bounce.cloudflare.com
+signed-by:	cloudflare.com
 
 
 
