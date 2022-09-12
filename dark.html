@@ -8,12 +8,24 @@
     <link rel="stylesheet" href="./Resources/assets/style.css" />
   </head>
   <body>
+    <button onclick="myFunction()">Toggle dark mode</button>
     <h3>Dictionaries</h3>
     <list>
       <ul>
-        <li><p>Lists <span class="cyn">index</span> their entries based on the position in the list
-        </p></li>
+        <li>
+          <p>
+            Lists <span class="cyn">index</span> their entries based on the
+            position in the list
+          </p>
+        </li>
       </ul>
     </list>
   </body>
+
+  <script>
+    function myFunction() {
+      var element = document.body;
+      element.classList.toggle("dark-mode");
+    }
+  </script>
 </html>
