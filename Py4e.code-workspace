@@ -6,6 +6,10 @@
 	],
 	"settings": {
 		"jupyter.jupyterServerType": "local",
-		"python.envFile": "${workspaceFolder}/~Py4e"
+		"python.envFile": "${workspaceFolder}/~Py4e",
+		"vscode-pets.petColor": "green",
+		"vscode-pets.petSize": "medium",
+		"vscode-pets.petType": "crab",
+		"vscode-pets.theme": "forest"
 	}
 }
