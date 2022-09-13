@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./Resources/assets/style.css" />
   </head>
   <body>
+    <button onclick="myFunction()">Toggle dark mode</button>
     <h3>Dictionaries</h3>
     <list>
       <ul>
@@ -18,18 +19,22 @@
           </p>
         </li>
         <li>
-          <p>
-            Lists <span class="cyn">index</span> their entries based on the
-            position in the list
-          </p>
+          <p><span class="prpl">Dictionaries</span> are like bags no order</p>
         </li>
         <li>
           <p>
-            Lists <span class="cyn">index</span> their entries based on the
-            position in the list
+            So we <span class="cyn">index </span> the things we put in the
+            <span class="prpl"></span> with a
+            <span class="cyn">“lookup tag”</span>
           </p>
         </li>
       </ul>
     </list>
   </body>
+  <script>
+    function myFunction() {
+      var element = document.body;
+      element.classList.toggle("dark-mode");
+    }
+  </script>
 </html>
